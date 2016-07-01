@@ -1,0 +1,21 @@
+BaseAddr = 0x00C7CA6C
+GameAddr = 0x00C7D20C
+
+PersStruct = 0x2C
+
+PersHP = 0x4A8
+PersMP = 0x4AC
+PersExp = 0x4B0
+PersXcoord = 0x003C
+PersZcoord = 0x0040
+PersYcoord = 0x0044
+PersName = 0x06B0
+PersHIR = 0x00C0
+PersLvl = 0x04A0
+PersMedF = 0x740
+
+PersInv = 0xF48
+
+InvCount  =0x10
+
+F_SEND_PACKET = 0x00728510
